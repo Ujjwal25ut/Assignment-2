@@ -10,7 +10,7 @@ public class Q2ArrayListIterate {
 	  list_Strings.add("Orange");
 	  list_Strings.add("White");
 	  list_Strings.add("Black");
-	  // Print the list
+	 
 	  for (String element : list_Strings) {
 	    System.out.println(element);
 	    }
